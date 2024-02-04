@@ -7,7 +7,6 @@ This project is created to move the eyeballs in all directions by moving the mou
 To clone and run this application, you'll need Git
 Clone this repository $ git clone repo name
 Go into the repository $ cd directory name
-# Support:
 # Future Improvements:
 I plan to change the eyeball's color by clicking the mouse.
 # License:
