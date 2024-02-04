@@ -1,7 +1,7 @@
 # Title:
 ## EyeMovementExercise
 # Description:
-This project is created to move the eyeballs in all directions by moving the mouse.
+This project allows the user to move the eyeballs in all directions by using the mouse.
 [You can find the link here](https://hema35.github.io/EyeMovementExercise/)
 # How to Run Roadmap:
 To clone and run this application, you'll need Git
